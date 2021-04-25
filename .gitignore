@@ -17,3 +17,4 @@ target/
 # Spoon
 spooned/
 spooned-classes/
+*.tmp
